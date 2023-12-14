@@ -10,8 +10,6 @@ A marketing agency requested we update their webpage code to meet accesibility s
 
 MIT License
 
-MIT License
-
 Copyright (c) 2023 GrossmannA
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
