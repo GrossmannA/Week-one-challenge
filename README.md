@@ -7,7 +7,8 @@ A marketing agency requested we update their webpage code to meet accesibility s
 I reformatted many elements from `<div>` into more descriptive elements ie. `<nav>`, `<section>`, and `<aside>`.
 I also added in alternative text for anyone that needs a screen reader.
 
-![final product](.assets/images/grossmanna.github.io_week-one-challenge_.png)
+![grossmanna github io_week-one-challenge_](https://github.com/GrossmannA/week-one-challenge/assets/149835376/f7e9a8e3-1b12-4c17-a2c3-d41989f87350)
+
 
 ## License
 
