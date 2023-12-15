@@ -4,7 +4,7 @@
 
 A marketing agency requested we update their webpage code to meet accesibility standards.
 
-I reformatted many elements from <div> into more descriptive elements ie. <nav>, <section>, and <aside>.
+I reformatted many elements from ~<div>~ into more descriptive elements ie. <nav>, <section>, and <aside>.
 I also added in alternative text for anyone that needs a screen reader.
 
 
